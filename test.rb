@@ -9,3 +9,7 @@ end
 def holaMundo3
     p "ajaq"
 end
+
+def holaMundo3
+    p "ajaq"
+end
