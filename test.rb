@@ -8,4 +8,5 @@ end
 
 #cosas nuevas para integrar a main
 
-#impersonando a Loli  
+#impersonando a Loli
+#impersonando a Jossy
